@@ -1,20 +1,20 @@
 {
   "name": "dfutil-nrf51-qboard",
-  "version" : "0.8.5",
+  "version" : "0.8.6",
   "systems" : [
     {
       "host" : "x86_64-apple-darwin",
-      "url" : "http://koozyt.github.io/qboard_uploader_nrf51/dfutil-nrf51-qboard-0.8.5-mac.tar.bz2",
-      "archiveFileName" : "dfutil-nrf51-qboard-0.8.5-mac.tar.bz2",
+      "url" : "http://koozyt.github.io/qboard_uploader_nrf51/dfutil-nrf51-qboard-0.8.6-mac.tar.bz2",
+      "archiveFileName" : "dfutil-nrf51-qboard-0.8.6-mac.tar.bz2",
       "size" : "13077",
       "checksum" : "SHA-256:6063771cd2ccf6b35297e9f693792babd4ca6fd6c8b1a48645ce805569a1df97"
     },
     {
       "host" : "i686-mingw32",
-      "url" : "http://koozyt.github.io/qboard_uploader_nrf51/dfutil-nrf51-qboard-0.8.5-windows.tar.bz2",
-      "archiveFileName" : "dfutil-nrf51-qboard-0.8.5-windows.tar.bz2",
-      "size" : "1163058",
-      "checksum" : "SHA-256:5f6d10075171e859a893f1670e8794dec2ddf89b959b5bceced7f1d7f308ee7d"
+      "url" : "http://koozyt.github.io/qboard_uploader_nrf51/dfutil-nrf51-qboard-0.8.6-windows.tar.bz2",
+      "archiveFileName" : "dfutil-nrf51-qboard-0.8.6-windows.tar.bz2",
+      "size" : "1163385",
+      "checksum" : "SHA-256:fad26239198a54de6185a7983b3125964a6a6f9cb99910e2ed3fce2df07824d7"
     }
   ]
 }
